@@ -55,10 +55,11 @@ Users should be able to:
 
 ### What I learned
 
+Data Manipulation, to achieve the expected result had to learn to filter info, compare variables based on element choosal, implement theme toggle. Obviously I can improve it by refactoring my code, but I'm satisfied on how much my knowledge has increased.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Prevent timeloss on html structure, assimilate project objectives, as displaying sizes, and how to assembly making it easier.
 
 ## Author
 
