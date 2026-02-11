@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-frontend-quiz-app-DdFGg7gT50](https://www.frontendmentor.io/solutions/responsive-frontend-quiz-app-DdFGg7gT50)
 - Live Site URL: [https://mateusrissodiblasio.github.io/frontend-quiz-app](https://mateusrissodiblasio.github.io/frontend-quiz-app)
 
 ## My process
