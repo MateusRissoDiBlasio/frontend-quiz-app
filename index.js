@@ -13,7 +13,7 @@ fetch('data.json')
         console.error('There has been a problem with your fetch operation:', error);
     });
 
-var actualindex = 9;
+var actualindex = 0;
 var correctsCount = 0;
 var quizSelected = '';
 var screenWidth = 0;
