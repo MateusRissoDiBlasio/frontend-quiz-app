@@ -13,7 +13,7 @@ fetch('data.json')
         console.error('There has been a problem with your fetch operation:', error);
     });
 
-var actualindex = 0;
+var actualindex = 9;
 var correctsCount = 0;
 var quizSelected = '';
 var screenWidth = 0;
@@ -156,9 +156,9 @@ function createQuizzQuestions(quizzesData){
                 quizQuestions.style.display = 'none';
                 answersContainer.style.display = 'none';
                 resultContainer.classList.remove('animateFadeOut');
-                resultContainer.classList.add('animateFadeIn');
                 resultContainer.style.opacity = 0;
-                if(screenWidth < 1440 && resultContainer.style.display !== 'none'){
+                resultContainer.classList.add('animateFadeIn');
+                if(screenWidth < 1440 && resultContainer.style.display === 'none'){
                     resultContainer.style.display = 'initial';
                 }else if(screenWidth > 1439 && resultContainer.style.display === 'none'){
                     resultContainer.style.display = 'flex';
